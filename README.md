@@ -2,6 +2,8 @@
 
 ## Laser Tag VR
 
+Created a laser tag VR game that supports real-time networking for up to four players.
+
 ### Instructions
 
 To run in a Meta Quest 2 headset:
